@@ -5,7 +5,7 @@ This project is a simple example of blinking an LED connected to pin PD0 of the 
 ## 🔧 Hardware Requirements
 - ATmega328 microcontroller
 - 1 LED
-- 1000Ω resistor
+- 100Ω resistor
 - Breadboard and jumper wires
 - 5V power supply
 
